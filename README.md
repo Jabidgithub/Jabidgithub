@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there , I am Ahmed Jabid Hasan 👋
 
 <!--
 **Jabidgithub/Jabidgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+I'm Jabid Hasan , a naive self-learned frontEnd web developer from Bangladesh.
+
+
+  🔭 I am currently working no 
+  🌱 I’m currently learning everything 🤣
+  👯 I’m looking to collaborate with newbie like me
+  🥅 2021 Goals: Contribute more to Open Source projects and master React.
+  ⚡ Fun fact: I love to watch Movies and TV series.
+  Spotify Playing 🎧
+  Spotify Playing
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReact
+
 -->
