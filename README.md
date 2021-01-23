@@ -1,12 +1,5 @@
 ### Hi there , I am Ahmed Jabid Hasan 👋
 
-<!--
-**Jabidgithub/Jabidgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
 
 I'm Jabid Hasan , a naive self-learned frontEnd web developer from Bangladesh.
 
@@ -23,4 +16,3 @@ I'm Jabid Hasan , a naive self-learned frontEnd web developer from Bangladesh.
 Languages and Tools:
 Visual Studio CodeHTML5CSS3SassJavaScriptReact
 
--->
