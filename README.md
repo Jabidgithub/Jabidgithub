@@ -3,7 +3,8 @@
 
 I'm Jabid Hasan , a naive self-learned frontEnd web developer from Bangladesh.
 
---🔭 I am currently working no 
+Talking about Personal Stuffs:
+--🔭 I am currently working no
 --🌱 I’m currently learning everything 🤣
 --👯 I’m looking to collaborate with newbie like me
 --🥅 2021 Goals: Contribute more to Open Source projects and master React.
