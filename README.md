@@ -108,5 +108,3 @@ Currently, I'm specializing in mobile development in Flutter.
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
