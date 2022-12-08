@@ -50,7 +50,7 @@ Currently, I'm specializing in mobile development in Flutter.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://en.bloggif.com/tmp/70cad4c9d6b893587c71a7a2b31843ac/text.gif?1669649299" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/Jabidgithub/Jabidgithub/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" />
 </div>  
 
 
