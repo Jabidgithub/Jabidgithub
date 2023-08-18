@@ -57,7 +57,7 @@ Experienced on Getx, BloC, Cubit, Provider, River-Pod
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Simple Social Media Application]([https://github.com/Jabidgithub/Food-delivery-App](https://github.com/Jabidgithub/Flutter-Social_media))  
+- 🔭 I’m currently working on [Simple Social Media Application](https://github.com/Jabidgithub/Flutter-Social_media)  
   
 
 - 🌱 I’m currently learning Flutter Clean Code(TDD), Spring boot and Data Structures and Algorithms
